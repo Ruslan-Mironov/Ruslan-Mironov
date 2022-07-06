@@ -36,7 +36,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Data Scientist and Python Developer - self - taught <img src="https://media.giphy.com/media/chu9apIdbJ2F32QBxZ/giphy.gif" width="30"> from Russia.
+I am a Data Scientist and Python Developer <img src="https://media.giphy.com/media/chu9apIdbJ2F32QBxZ/giphy.gif" width="30"> from Russia.
 
 - 🌍 A man from planet earth
 
