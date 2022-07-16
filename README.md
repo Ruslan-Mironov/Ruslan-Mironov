@@ -70,6 +70,7 @@ I am a Data Scientist and Python Developer <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm"  alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Ruslan-Mironov/1s-logo-svg-test/blob/main/e84e6c499d34994110fdfff634410f07.png" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
 </div>
 
 ---
